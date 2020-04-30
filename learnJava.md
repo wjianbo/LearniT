@@ -31,5 +31,11 @@ public class Main {
 `scanner.next()`（包括`scanner.nextInt()`、`scanner.nextDouble`等）与`scanner.nextLine()`不同，
 在`scanner.next`之后使用`scanner.nextLine()`，可能会读取到空字符。
 
+可以用`scanner.skip()`跳过换行符、空格等，例如：
+
+```
+scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+```
+
 
 
