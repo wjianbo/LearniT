@@ -1,10 +1,10 @@
-# 学习 Java 的笔记
+# Java 学习笔记
 
 ## Day 1
 
 2020-4-29
 
-开始 [HackerRank](https://www.hackerrank.com) 的 30 Days of Code
+开始 [HackerRank](https://www.hackerrank.com) 的 [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)。
 
 ### Scanner 的用法
 
@@ -28,7 +28,7 @@ public class Main {
 
 **注意**
 
-`scanner.next()`（包括`scanner.nextInt()`、`scanner.nextDouble`）与`scanner.nextLine()`不同，
+`scanner.next()`（包括`scanner.nextInt()`、`scanner.nextDouble`等）与`scanner.nextLine()`不同，
 在`scanner.next`之后使用`scanner.nextLine()`，可能会读取到空字符。
 
 
