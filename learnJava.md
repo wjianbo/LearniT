@@ -37,5 +37,11 @@ public class Main {
 scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 ```
 
+## Day 2
 
+2020-5-1
+
+### Double to Int
+
+Use the `Math.round()` method.
 
