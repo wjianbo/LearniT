@@ -15,4 +15,6 @@ spring.datasource.url=jdbc:mysql://localhost:3306/db_name?serverTimezone=Asia/Sh
 
 ## 相关资源
 
+[Spring Boot 入门（4）提交表单并存入 MySQL 数据库](https://segmentfault.com/a/1190000014286996)
+
 [SpringBoot Thymeleaf 使用教程（实用版）](https://www.jianshu.com/p/908b48b10702)
